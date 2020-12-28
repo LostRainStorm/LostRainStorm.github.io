@@ -1,0 +1,12 @@
+Origin: lostrainstorm
+Label: lostrainstorm
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Making fun things.
+
+SHA256:
+ 7c448ecace62874df55a7776c3d0f13f8596dba20e22c27c71b966c4e8b8e196 556 Packages.bz2
+ efed4ea51cae33a9eb5eecbda854db79f8f87bb2b18082d8489369ab4f4a36ac 572 Packages.xz
